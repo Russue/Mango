@@ -11,4 +11,11 @@ public class Calculator {
     public static int multiplication(int num1, int num2) {
         return num1 * num2;
     }
+    // Division method
+    public static double division(int num1, int num2) {
+        if (num2 == 0) {
+            throw new IllegalArgumentException("Cannot divide by zero!");
+        }
+        return (double) num1 / num2;
+    }
 }
