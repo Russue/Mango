@@ -1,0 +1,44 @@
+
+    
+/* hero background image */
+.bgimage {
+    height:100vh;
+    width: auto;
+    background: url('Image/cov.jpg');
+    background-size:cover;
+    background-position: center;
+    background-position: 100%;
+    position: relative;
+    padding: 0;
+    margin: 0;
+
+}
+/* body background*/
+body {
+    background-image: url('Image/mainbg2.avif   ');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+   fill-opacity: inherit;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
